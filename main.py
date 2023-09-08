@@ -17,3 +17,24 @@ Phrase="Jobayer Joyaddar"
 print(Phrase + " Badhon ")
 print(Phrase.upper())
 print(Phrase.lower())
+
+print(Phrase [0])
+print(Phrase [1])
+print(Phrase [2])
+print(Phrase [3])
+print(Phrase [4])
+print(Phrase [5])
+print(Phrase [6])
+
+print(Phrase.index("Joy"))
+print(Phrase.replace("Jobayer" , "Waise"))
+
+print(3.5)
+print(-3.5)
+print(3*5)
+print(25/5)
+print(3*(2+5))
+print(10 % 3)
+
+my_name=6
+print(str(my_name) + " is my number ")
