@@ -38,3 +38,24 @@ print(10 % 3)
 
 my_name=6
 print(str(my_name) + " is my number ")
+
+print(round(3.7))
+
+Name=input("Enter your name :")
+print("Hi " + Name + " ")
+Age=input("Enter your Age :")
+print("My " + Age + " ")
+Address=input("Enter your Address :")
+print("My " + Address + " ")
+Hobby=input("Enter your Hobby :")
+print("My " + Hobby + " ")
+
+num1=input("Enter 1st number: ")
+num2=input("Enter 2nd number: ")
+result = int(num1) + int(num2)
+print(result)
+
+num1=input("Enter 1st number: ")
+num2=input("Enter 2nd number: ")
+result = float(num1) + float(num2)
+print(result)
